@@ -18,7 +18,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.globexdak.testapp02"
     },
     "web": {
       "favicon": "./assets/favicon.png"
